@@ -6,4 +6,4 @@ Repository for tracking of locusts in controlled environments and analysis of th
 
 ![alt text](https://github.com/RoeeFrancos1990/LocusTracker/blob/master/LocusTracker.png?raw=true)
 
--This work was mainly developed as part of the paper "Locust behavior and city topology: A biodynamic approach for assessing urban flows" by Moshe Guershon, Roee M. Francos Amir Ayali, Tali Hatuka and Alfred M. Bruckstein accepte to iScience journal.
+-This work was mainly developed as part of the paper "Locust behavior and city topology: A biodynamic approach for assessing urban flows" by Moshe Guershon, Roee M. Francos, Amir Ayali, Tali Hatuka and Alfred M. Bruckstein accepted to the iScience journal.
